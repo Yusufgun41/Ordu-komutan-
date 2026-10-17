@@ -1,0 +1,6 @@
+{
+  "name": "Ordu Komutanı 3D - Taktiksel Savaş Oyunu",
+  "description": "Mobil ve masaüstü uyumlu, 3D taktiksel ordu yönetim ve strateji oyunu. Birliklerinizi yönetin, üssünüzü koruyun ve düşman kalesini fethedin!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
